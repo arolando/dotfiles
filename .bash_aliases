@@ -15,6 +15,7 @@ fi
 
 # Some ls aliases
 alias l="ls -l ${colorflag}"
+alias ll="ls -l ${colorflag}"
 alias la="ls -la ${colorflag}"
 
 # Always use color output for `ls`
