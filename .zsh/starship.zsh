@@ -1,4 +1,4 @@
-~/.config/starship.toml# find out which distribution we are running on
+# find out which distribution we are running on
 LFILE="/etc/*-release"
 MFILE="/System/Library/CoreServices/SystemVersion.plist"
 if [[ -f $LFILE ]]; then
