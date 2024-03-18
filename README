@@ -1,3 +1,6 @@
-1- install nerdfonts
-2- install starship
-3- copy .zshrc in home directory
+1- install nerdfonts from font directory
+2- install starship: brew install starship
+3- create symlink: ln -s /Users/alessandro/dotfiles/.zshrc /Users/alessandro/.zshrc
+4- install eza: brew install eza
+5- install direnv: brew install direnv
+
